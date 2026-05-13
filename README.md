@@ -6,3 +6,7 @@ This repository contains an audit of the IRCTC platform and a proposed design sp
 - `part-a/`: Contains problem documentation.
 - `part-b/`: (Future) Contains feature specs and matrices.
 - `assets/`: Contains screenshots of the identified issues.
+
+## Status
+- [x] Part A: Problem Discovery Complete
+- [ ] Part B: Design Sprint Pending
